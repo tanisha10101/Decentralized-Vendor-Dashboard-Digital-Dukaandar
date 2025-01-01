@@ -87,16 +87,16 @@ The website is hosted on a scalable platform, ensuring high availability and rel
 
 ## Visual Overview
 
-![Dashboard Overview](path/to/dashboard-overview.jpg)
+![Dashboard Overview](path/to/dashboard.jpg)
 
 
-![Order Management](path/to/order-management.jpg)
+![Order Management](path/to/orders.jpg)
 
 
-![Employee Records](path/to/employee-records.jpg)
+![Employee Records](path/to/employees.jpg)
 
 
-![Customer Records](path/to/blockchain-features.jpg)
+![Customer Records](path/to/customer.jpg)
 
 
 ---

@@ -87,16 +87,19 @@ The website is hosted on a scalable platform, ensuring high availability and rel
 
 ## Visual Overview
 
-![Dashboard Overview](path/to/dashboard.jpg)
 
+![Dashboard Overview](./images/dashboard.jpg)  
+_The main dashboard displaying sales and budget graphs._
 
-![Order Management](path/to/orders.jpg)
+![Order Management](./images/orders.jpg)  
+_Manage new, pending, and completed orders with customer details._
 
+![Employee Records](./images/employees.jpg)  
+_Keep track of employee details, including hire date, designation, and salary._
 
-![Employee Records](path/to/employees.jpg)
+![Customer Records](./images/customer.jpg)  
+_Manage detailed customer records and insights._
 
-
-![Customer Records](path/to/customer.jpg)
 
 
 ---

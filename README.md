@@ -85,6 +85,23 @@ The website is hosted on a scalable platform, ensuring high availability and rel
 
 ---
 
+## Visual Overview
+
+![Dashboard Overview](path/to/dashboard-overview.jpg)
+
+
+![Order Management](path/to/order-management.jpg)
+
+
+![Employee Records](path/to/employee-records.jpg)
+
+
+![Customer Records](path/to/blockchain-features.jpg)
+
+
+---
+
+
 ## Conclusion
 
 The Decentralized Vendor Dashboard is more than just a digital tool; it is a stepping stone toward a modernized, efficient, and customer-centric business model. By empowering small vendors with advanced technologies, this platform paves the way for long-term growth and success.
